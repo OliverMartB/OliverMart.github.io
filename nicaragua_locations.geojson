@@ -1,0 +1,519 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.275138,
+          12.14336
+        ]
+      },
+      "properties": {
+        "name": "Super Express #1",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Managua",
+        "address": "Dirección simulada 1, Managua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.892395,
+          12.426084
+        ]
+      },
+      "properties": {
+        "name": "Super Express #2",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "León",
+        "address": "Dirección simulada 2, León"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.909776,
+          12.942657
+        ]
+      },
+      "properties": {
+        "name": "Super Express #3",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Matagalpa",
+        "address": "Dirección simulada 3, Matagalpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.370653,
+          13.10572
+        ]
+      },
+      "properties": {
+        "name": "Super Express #4",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Estelí",
+        "address": "Dirección simulada 4, Estelí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.980732,
+          11.926652
+        ]
+      },
+      "properties": {
+        "name": "Super Express #5",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Granada",
+        "address": "Dirección simulada 5, Granada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09501,
+          11.953154
+        ]
+      },
+      "properties": {
+        "name": "Super Express #6",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Masaya",
+        "address": "Dirección simulada 6, Masaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.163114,
+          12.605494
+        ]
+      },
+      "properties": {
+        "name": "Super Express #7",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Chinandega",
+        "address": "Dirección simulada 7, Chinandega"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82692,
+          11.43555
+        ]
+      },
+      "properties": {
+        "name": "Super Express #8",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Rivas",
+        "address": "Dirección simulada 8, Rivas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.759148,
+          11.999355
+        ]
+      },
+      "properties": {
+        "name": "Super Express #9",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Bluefields",
+        "address": "Dirección simulada 9, Bluefields"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.688564,
+          13.116861
+        ]
+      },
+      "properties": {
+        "name": "Super Express #10",
+        "brand": "Super Express",
+        "category": "A",
+        "city": "Jinotega",
+        "address": "Dirección simulada 10, Jinotega"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.241482,
+          12.15168
+        ]
+      },
+      "properties": {
+        "name": "AMPM #1",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Managua",
+        "address": "Dirección simulada 1, Managua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.895782,
+          12.429346
+        ]
+      },
+      "properties": {
+        "name": "AMPM #2",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "León",
+        "address": "Dirección simulada 2, León"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.926781,
+          12.953694
+        ]
+      },
+      "properties": {
+        "name": "AMPM #3",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Matagalpa",
+        "address": "Dirección simulada 3, Matagalpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.370164,
+          13.065748
+        ]
+      },
+      "properties": {
+        "name": "AMPM #4",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Estelí",
+        "address": "Dirección simulada 4, Estelí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.952036,
+          11.947931
+        ]
+      },
+      "properties": {
+        "name": "AMPM #5",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Granada",
+        "address": "Dirección simulada 5, Granada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.083791,
+          11.982578
+        ]
+      },
+      "properties": {
+        "name": "AMPM #6",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Masaya",
+        "address": "Dirección simulada 6, Masaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1244,
+          12.630978
+        ]
+      },
+      "properties": {
+        "name": "AMPM #7",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Chinandega",
+        "address": "Dirección simulada 7, Chinandega"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.826565,
+          11.421983
+        ]
+      },
+      "properties": {
+        "name": "AMPM #8",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Rivas",
+        "address": "Dirección simulada 8, Rivas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.757685,
+          12.029803
+        ]
+      },
+      "properties": {
+        "name": "AMPM #9",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Bluefields",
+        "address": "Dirección simulada 9, Bluefields"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.660021,
+          13.119474
+        ]
+      },
+      "properties": {
+        "name": "AMPM #10",
+        "brand": "AMPM",
+        "category": "B",
+        "city": "Jinotega",
+        "address": "Dirección simulada 10, Jinotega"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.274098,
+          12.146618
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #1",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Managua",
+        "address": "Dirección simulada 1, Managua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.889087,
+          12.423728
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #2",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "León",
+        "address": "Dirección simulada 2, León"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.931971,
+          12.909823
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #3",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Matagalpa",
+        "address": "Dirección simulada 3, Matagalpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.361101,
+          13.066161
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #4",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Estelí",
+        "address": "Dirección simulada 4, Estelí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96398,
+          11.93734
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #5",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Granada",
+        "address": "Dirección simulada 5, Granada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.109803,
+          11.960731
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #6",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Masaya",
+        "address": "Dirección simulada 6, Masaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.126223,
+          12.617516
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #7",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Chinandega",
+        "address": "Dirección simulada 7, Chinandega"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82371,
+          11.435458
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #8",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Rivas",
+        "address": "Dirección simulada 8, Rivas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.752155,
+          11.99689
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #9",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Bluefields",
+        "address": "Dirección simulada 9, Bluefields"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.669916,
+          13.084559
+        ]
+      },
+      "properties": {
+        "name": "Financiera - Sucursal #10",
+        "brand": "Financiera - Sucursal",
+        "category": "C",
+        "city": "Jinotega",
+        "address": "Dirección simulada 10, Jinotega"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_by": "ChatGPT - prueba GeoJSON",
+    "description": "Puntos de ejemplo: 10 Super Express (A), 10 AMPM (B), 10 Sucursales físicas (C) distribuidos en Nicaragua."
+  }
+}
