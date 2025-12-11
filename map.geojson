@@ -50300,21 +50300,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SUPER EXPRESS BO TEODORO LOPEZ ",
-        "address": "NUEVA SEGOVIA - OCOTAL, BO. TEODORO LOPEZ",
-        "type": "PUNTOXPRESS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.634712,
-          13.634712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "RIVAS",
         "address": "DE CLARO 2 CUADRAS AL OESTE",
         "type": "SUCURSALES"
