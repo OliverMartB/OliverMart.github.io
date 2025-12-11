@@ -634,22 +634,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SUPER EXPRESS ALTAGRACIA",
-        "address": "BO. ALTAGRACIA, DEL SEMAFORO DEL ZUMEN, 2 C AL NORTE Y 1 C AL OESTE",
-        "type": "PUNTOXPRESS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6298301,
-          12.127917
-        ]
-      },
-      "id": 42
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "SUPER EXPRESS CIUDAD DORAL 3",
         "address": "RESIDENCIAL CIUDAD DORAL. DE LA ENTRADA PRINCIPAL 1 1/2  CUADRAS AL SUR Y 1 CUADRA AL NOROESTE. ",
         "type": "PUNTOXPRESS"
